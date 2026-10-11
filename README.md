@@ -1,2 +1,2 @@
 # String Converter
-Converts strings into ASCII, Binary, Octal, and Hex
+Converts strings (including emojis) into ASCII, Binary, Octal, and Hex
