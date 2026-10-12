@@ -29,5 +29,5 @@ while onLoop:
                 print('\tThank you for using this program!')
                 break
             case _:
-                onLoop = input('Invalid input. Please choose between between (Y|N): ')
+                onLoop = input('Invalid input. Please choose between (Y|N): ')
     print('=======================================================')
